@@ -1,0 +1,17 @@
+autopep8==2.0.2
+click==8.1.3
+Flask==2.2.3
+greenlet==2.0.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib==1.2.0
+MarkupSafe==2.1.2
+nltk==3.8.1
+pycodestyle==2.10.0
+python-dotenv==1.0.0
+regex==2023.3.23
+tqdm==4.65.0
+uWSGI==2.0.21
+Werkzeug==2.2.3
+zope.event==4.6
+zope.interface==6.0

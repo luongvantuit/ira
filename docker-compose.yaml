@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  ira:
+    build:
+      context: ./
+      dockerfile: ./.docker/Dockerfile
+      tags:
+        - "v1.0"
+    container_name: 'ira'
+    environment:
+      - PORT=3000
+    ports:
+      - 4000:3000
+    volumes:
+      - ./dat:/ir/app/dat
+    networks:
+      - irn
+
+networks:
+  irn:
+    name: irn
