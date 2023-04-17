@@ -2,7 +2,12 @@
     "cSpell.words": [
         "dotenv",
         "gevent",
+        "killpg",
+        "pids",
         "pywsgi",
+        "setpgrp",
+        "SIGKILL",
+        "spawnl",
         "uwsgi"
     ]
 }

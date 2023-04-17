@@ -1,0 +1,11 @@
+{
+  "name": "ira",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luongvantuit/ira.git",
+  "author": "Lương Văn Tú <luongvantuit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
