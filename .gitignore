@@ -296,5 +296,3 @@ dist
 
 *.lock 
 *-lock.json
-
-!static/dist/
